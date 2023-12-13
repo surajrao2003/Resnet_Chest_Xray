@@ -2,11 +2,11 @@ ResNet-18 using PyTorch on Chest X-ray dataset
 
 1) Implementation of ResNet-18 from scratch
    
-2) Using pre-trained ResNet-18
+2) Using a pre-trained ResNet-18
    
    a) Using the pre-trained network for classification by retraining only the newly added classifier part
 
-   b) Fine-tuning a pre-trained ResNet-18
+   b) Fine-tuning the pre-trained ResNet-18
    
 3) Modifying the ResNet-18 model architecture
    
