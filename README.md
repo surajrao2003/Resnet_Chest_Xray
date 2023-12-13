@@ -12,7 +12,7 @@ ResNet-18 using PyTorch on Chest X-ray dataset
    
    a) Modifying the original ResNet-18 into ResNet-14 and training from scratch
    
-   b) Modifying a pre-trained ResNet-18 and fine-tuning 
+   b) Modifying the pre-trained ResNet-18 and fine-tuning 
 
 Dataset:- https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
 
